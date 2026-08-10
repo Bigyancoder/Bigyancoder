@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/bigyanjoshi">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=05070d" alt="LinkedIn"/>
 </a>
 <a href="mailto:Joshibigyan@gmail.com">
@@ -81,7 +81,7 @@ A browser-based notebook that displays pasted text as automatically scrolling no
 
 <img src="./assets/project-notebook.gif" alt="Demo of the Digital Notebook project scrolling pasted text" width="100%"/>
 
-[Repository →](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+[Repository →](https://github.com/Bigyancoder/REPO_NAME)
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +93,7 @@ An experimental browser-based 3D visualization environment with rotation, speed 
 
 <img src="./assets/project-3d.gif" alt="Demo of the Interactive 3D Visualizer rotating a scene" width="100%"/>
 
-[Repository →](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+[Repository →](https://github.com/Bigyancoder/REPO_NAME)
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ A browser experiment that divides long text across multiple screen sections so r
 
 <img src="./assets/project-reader.gif" alt="Demo of the Split-Screen Text Viewer dividing a long text" width="100%"/>
 
-[Repository →](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+[Repository →](https://github.com/Bigyancoder/REPO_NAME)
 
 </td>
 <td width="50%" valign="top">
@@ -117,7 +117,7 @@ Several small Chrome/browser extensions designed to simplify repetitive tasks an
 
 **Tech:** `Technology to verify`
 
-[Repository →](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+[Repository →](https://github.com/Bigyancoder/REPO_NAME)
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ This is genuinely how I build things — no reason to hide it:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR__LINKEDIN__USERNAME-0b1220?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=05070d)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bigyanjoshi-0b1220?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=05070d)](https://www.linkedin.com/in/bigyanjoshi)
 [![Email](https://img.shields.io/badge/Email-Joshibigyan@gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=05070d)](mailto:Joshibigyan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Bigyancoder-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=05070d)](https://github.com/Bigyancoder)
 
