@@ -7,10 +7,10 @@
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=05070d" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:Joshibigyan@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20hi-0b1220?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=05070d" alt="Email"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Bigyancoder">
   <img src="https://img.shields.io/badge/GitHub-Follow-0b1220?style=flat-square&logo=github&logoColor=7dd3fc&labelColor=05070d" alt="GitHub"/>
 </a>
 
@@ -157,8 +157,8 @@ This is genuinely how I build things — no reason to hide it:
 ## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=05070d&title_color=7dd3fc&icon_color=a78bfa&text_color=9aa8c7" alt="Bigyan's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=05070d&stroke=1e2a45&ring=7dd3fc&fire=a78bfa&currStreakLabel=7dd3fc" alt="Bigyan's GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bigyancoder&show_icons=true&theme=dark&hide_border=true&bg_color=05070d&title_color=7dd3fc&icon_color=a78bfa&text_color=9aa8c7" alt="Bigyan's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bigyancoder&theme=dark&hide_border=true&background=05070d&stroke=1e2a45&ring=7dd3fc&fire=a78bfa&currStreakLabel=7dd3fc" alt="Bigyan's GitHub streak" height="165"/>
 </div>
 
 <sub>Stats above are pulled live from GitHub — nothing here is typed in by hand.</sub>
@@ -170,8 +170,8 @@ This is genuinely how I build things — no reason to hide it:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR__LINKEDIN__USERNAME-0b1220?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=05070d)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-YOUR__EMAIL-0b1220?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=05070d)](mailto:YOUR_EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=05070d)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Joshibigyan@gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=05070d)](mailto:Joshibigyan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Bigyancoder-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=05070d)](https://github.com/Bigyancoder)
 
 </div>
 
